@@ -6,8 +6,8 @@
 # template language: javascript
 # A 2-finger adaptive robot gripper from ROBOTIQ with 85 mm opening.
 
-EXTERNPROTO "webots://projects/appearances/protos/MattePaint.proto"
-EXTERNPROTO "webots://projects/appearances/protos/BrushedAluminium.proto"
+EXTERNPROTO "../appearances/MattePaint.proto"
+EXTERNPROTO "../appearances/BrushedAluminium.proto"
 
 PROTO Robotiq2f85Gripper [
 field  SFVec3f    translation  0 0 0
