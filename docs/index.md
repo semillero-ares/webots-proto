@@ -1,0 +1,3 @@
+# Backup de protos para Webots
+
+Durante el semestre 2026-2 hemos tenido problemas descargando los protos de los robots de universal robots y otros assets en webots, por lo que generamos este repositorio y github pages para tener un backup y no depender de enlaces externos. 

@@ -1,0 +1,18 @@
+site_name: Protos para Webots
+site_description: Backup de los archivos proto para Webots
+site_author: Semillero ARES
+copyright: © 2026, Davinson Castaño Cano para el Semillero ARES
+repo_url: https://github.com/semillero-ares/webots-proto
+site_url: https://semillero-ares.github.io/webots-proto/
+theme:
+  name: readthedocs
+  logo: img/logo/ares.png
+  favicon: img/favicon/favicon.ico
+  include_homepage_in_sidebar: true
+  locale: es
+extra_css:
+  - css/extra.css
+markdown_extensions:
+  - attr_list
+plugins:
+  - search
